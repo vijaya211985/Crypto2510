@@ -1,1 +1,8 @@
 streamlit
+altair
+pandas
+streamlit
+scikit-learn
+random
+time
+RPi.GPIO
